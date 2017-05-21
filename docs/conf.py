@@ -40,8 +40,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Flask-Simon'
-copyright = u'2013, Andy Dirnberger'
+project = 'Flask-Simon'
+copyright = '2013, Andy Dirnberger'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -187,8 +187,8 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'Flask-Simon.tex', u'Flask-Simon Documentation',
-   u'Andy Dirnberger', 'manual'),
+  ('index', 'Flask-Simon.tex', 'Flask-Simon Documentation',
+   'Andy Dirnberger', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -217,8 +217,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'flask-simon', u'Flask-Simon Documentation',
-     [u'Andy Dirnberger'], 1)
+    ('index', 'flask-simon', 'Flask-Simon Documentation',
+     ['Andy Dirnberger'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -231,8 +231,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'Flask-Simon', u'Flask-Simon Documentation',
-   u'Andy Dirnberger', 'Flask-Simon', 'One line description of project.',
+  ('index', 'Flask-Simon', 'Flask-Simon Documentation',
+   'Andy Dirnberger', 'Flask-Simon', 'One line description of project.',
    'Miscellaneous'),
 ]
 
